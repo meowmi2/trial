@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Summary</title>
+  </head>
+  <body>
+
+    <a href= '{% url 'basic_app:other'%}'> the other page </a>
+<h2>    </h2>
+
+
+  </body>
+</html>
